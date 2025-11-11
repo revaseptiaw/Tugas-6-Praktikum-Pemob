@@ -8,7 +8,7 @@ NIM: H1D023029
 
 Shift Baru: F
 
-## Deskripsi Proyek 
+## Deskripsi Aplikasi
 
 Aplikasi Flutter sederhana ini mendemonstrasikan proses passing data (pengiriman data) dari satu halaman (form input) ke halaman lain (tampilan data). Aplikasi ini terdiri dari dua halaman utama:
 
